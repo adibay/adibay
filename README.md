@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adibay (Adi Bayu Segar)
-- 👀 I’m interested in Business and tech
-- 🌱 I'm learning python, javascript and PHP
+- 👀 I’m interested in Business and Tech
+- 🌱 I'm learning Python, javascript, React, and PHP
 - 💞️I'm looking for cooperation to build a project in my company
 - 📫 How to reach me adib01295@gmail.com
 
